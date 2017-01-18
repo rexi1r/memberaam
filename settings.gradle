@@ -1,0 +1,1 @@
+include  ':librarymaterial-menu', ':endlessadapter', ':libraryPagerSlidingTabStrip-master', ':android-auto-scroll-view-pager-master', ':saripaar', ':TMessagesProj', ':librarySiren'
