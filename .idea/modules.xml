@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/F memberaam.iml" filepath="$PROJECT_DIR$/F memberaam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TMessagesProj/TMessagesProj.iml" filepath="$PROJECT_DIR$/TMessagesProj/TMessagesProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-auto-scroll-view-pager-master/android-auto-scroll-view-pager-master.iml" filepath="$PROJECT_DIR$/android-auto-scroll-view-pager-master/android-auto-scroll-view-pager-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/endlessadapter/endlessadapter.iml" filepath="$PROJECT_DIR$/endlessadapter/endlessadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryPagerSlidingTabStrip-master/libraryPagerSlidingTabStrip-master.iml" filepath="$PROJECT_DIR$/libraryPagerSlidingTabStrip-master/libraryPagerSlidingTabStrip-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarySiren/librarySiren.iml" filepath="$PROJECT_DIR$/librarySiren/librarySiren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarymaterial-menu/librarymaterial-menu.iml" filepath="$PROJECT_DIR$/librarymaterial-menu/librarymaterial-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saripaar/saripaar.iml" filepath="$PROJECT_DIR$/saripaar/saripaar.iml" />
+    </modules>
+  </component>
+</project>
